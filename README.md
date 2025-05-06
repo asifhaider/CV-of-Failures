@@ -55,9 +55,14 @@ Here goes all the opportunities I attempted but did not succeed throughout my un
 - Samsung Lab @ BUET
 
 ### Hackathons I did not win:
-Coming soon
+- Therap Java Fest
+- Code Samurai by Dhaka University and BJIT
+- Bangladesh Blockchain Olympiad
+
+Will add more soon!
+
 
 ---
-###### Last updated: April 5, 2025
+###### Last updated: April 6, 2025
 
 ---
