@@ -48,8 +48,8 @@ Here goes all the opportunities I attempted but did not succeed throughout my un
 
 ---
 
-[1] Considering rebuttals, desk rejections were not included.
+###### [1] Considering rebuttals, desk rejections were not included.
 
-Last updated: April 5, 2025
+###### Last updated: April 5, 2025
 
 ---
