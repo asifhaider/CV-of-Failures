@@ -24,6 +24,9 @@ Here goes all the opportunities I attempted but did not succeed throughout my un
 - [Summer @ EPFL](https://summer.epfl.ch/)
 - [Student Summer Research Fellowship at ETH Zurich](https://inf.ethz.ch/studies/summer-research-fellowship.html)
 
+**2023**
+- [Summer Geometry Initiative at MIT](https://sgi.mit.edu/)
+
 **2021**
 - [Robotics Institute Summer Internship (RISS) Program at Carnegie Mellon University](https://riss.ri.cmu.edu/)
 
@@ -37,9 +40,13 @@ Here goes all the opportunities I attempted but did not succeed throughout my un
 
 ### Conferences I got rejected <sup>[1] </sup> from:
 **2025**
-- [Mining Software Repositories (MSR)](https://2025.msrconf.org/)
+- [Mining Software Repositories (MSR)](https://2025.msrconf.org/) [Full Paper]
 
-### Job placements I missed out on:
+**2024**
+- [Empirical Methods in Natural Language Processing (EMNLP)](https://2024.emnlp.org/volunteers) [Student Volunteer]
+
+
+### Job placements I did not get:
 **2024**
 - Synesis IT
 - Dynamic Solution Innovators
