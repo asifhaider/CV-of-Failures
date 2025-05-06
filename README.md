@@ -21,6 +21,8 @@ Here goes all the opportunities I attempted but did not succeed throughout my un
 - [Science Institute International Summer Research Programme at Aalto University, Finland](https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme)
 - [Young Researcher Internship Program at CISPA Helmholtz Center for Information Security, Germany](https://career.cispa.de/yrip.html)
 - [Undergraduate Research Internship Program (UGRIP) at MBZUAI, UAE](https://www.mbzuai.ac.ae/en/ugrip)
+- [Summer @ EPFL](https://summer.epfl.ch/)
+- [Student Summer Research Fellowship at ETH Zurich](https://inf.ethz.ch/studies/summer-research-fellowship.html)
 
 **2021**
 - [Robotics Institute Summer Internship (RISS) Program at Carnegie Mellon University](https://riss.ri.cmu.edu/)
