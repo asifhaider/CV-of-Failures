@@ -1,7 +1,7 @@
 # CV-of-Failures
 Here goes all the opportunities I attempted but did not succeed throughout my undergrad and beyond-
 
-### Degree programs I did not get into:
+## Degree programs I did not get into:
 **2025**
 - PhD in Software Engineering at Carnegie Mellon University (CMU) <!-- list down University of Virginia, Purdue University, University of Maryland College Park, Stony Brook University, UMass Amherst, Rice University, UCLA -->
 - PhD in Computer Science (SWE) at Purdue University
@@ -12,7 +12,7 @@ Here goes all the opportunities I attempted but did not succeed throughout my un
 - PhD in Computer Science (NLP) at Stony Brook University (SBU)
 - PhD in Computer Science (NLP) at Rice University
 
-### Research internships I failed to secure:
+## Research internships I failed to secure:
 **2025**
 - [Summer Research Initiative (SURI) at Arizona State University](https://students.engineering.asu.edu/graduate/research/suri/)
 
@@ -30,7 +30,7 @@ Here goes all the opportunities I attempted but did not succeed throughout my un
 **2021**
 - [Robotics Institute Summer Internship (RISS) Program at Carnegie Mellon University](https://riss.ri.cmu.edu/)
 
-### Research schools I did not get into:
+## Research schools I did not get into:
 **2024**
 - [Eastern European Machine Learning Summer School (EEML)](https://www.eeml.eu/home)
 - [Summer Program in Intelligence, Data, Ethics, And Society (IDEAS)](https://sites.google.com/view/ideas-summer-program/home?authuser=0)
@@ -38,7 +38,7 @@ Here goes all the opportunities I attempted but did not succeed throughout my un
 **2023**
 - [The Cornell, Maryland, Max Planck Pre-doctoral Research School in Computer Science (CMMRS)](https://cmmrs.mpi-sws.org/)
 
-### Conferences I got rejected </sup> from:
+## Conferences I got rejected </sup> from:
 **2025**
 - [Mining Software Repositories (MSR)](https://2025.msrconf.org/) [Full Paper]
 
@@ -46,7 +46,7 @@ Here goes all the opportunities I attempted but did not succeed throughout my un
 - [Empirical Methods in Natural Language Processing (EMNLP)](https://2024.emnlp.org/volunteers) [Student Volunteer]
 
 
-### Job placements I did not get:
+## Job placements I missed:
 **2024**
 - Synesis IT
 - Dynamic Solution Innovators
@@ -54,7 +54,7 @@ Here goes all the opportunities I attempted but did not succeed throughout my un
 - United International University (UIU)
 - Samsung Lab @ BUET
 
-### Hackathons I did not win:
+## Hackathons I did not win:
 - Therap Java Fest
 - Code Samurai by Dhaka University and BJIT
 - Bangladesh Blockchain Olympiad
