@@ -38,7 +38,7 @@ Here goes all the opportunities I attempted but did not succeed throughout my un
 **2023**
 - [The Cornell, Maryland, Max Planck Pre-doctoral Research School in Computer Science (CMMRS)](https://cmmrs.mpi-sws.org/)
 
-### Conferences I got rejected <sup>[1] </sup> from:
+### Conferences I got rejected </sup> from:
 **2025**
 - [Mining Software Repositories (MSR)](https://2025.msrconf.org/) [Full Paper]
 
@@ -54,9 +54,6 @@ Here goes all the opportunities I attempted but did not succeed throughout my un
 - United International University (UIU)
 
 ---
-
-###### [1] Considering submissions climbing upto rebuttal response
-
 ###### Last updated: April 5, 2025
 
 ---
