@@ -37,12 +37,9 @@ Here goes all the opportunities I attempted but did not succeed throughout my un
 **2025**
 - [Mining Software Repositories (MSR)](https://2025.msrconf.org/)
 
-### Industry placements I missed out on:
+### Job placements I missed out on:
 **2024**
 - Synesis IT
 - Dynamic Solution Innovators
 - Chaldal
-
-### Academia placements I missed out on:
-**2024**
 - United International University (UIU)
