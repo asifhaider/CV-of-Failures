@@ -52,6 +52,10 @@ Here goes all the opportunities I attempted but did not succeed throughout my un
 - Dynamic Solution Innovators
 - Chaldal
 - United International University (UIU)
+- Samsung Lab @ BUET
+
+### Hackathons I did not win:
+Coming soon
 
 ---
 ###### Last updated: April 5, 2025
