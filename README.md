@@ -24,3 +24,5 @@ Here goes all the opportunities I attempted but did not succeed throughout my un
 - [2024] [Summer Program in Intelligence, Data, Ethics, And Society (IDEAS)](https://sites.google.com/view/ideas-summer-program/home?authuser=0)
 - [2024, 2023] [The Cornell, Maryland, Max Planck Pre-doctoral Research School in Computer Science (CMMRS)](https://cmmrs.mpi-sws.org/)
 
+### Conferences I got rejected from:
+- [2025] [Mining Software Repositories (MSR)](https://2025.msrconf.org/)
