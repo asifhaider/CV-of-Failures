@@ -26,3 +26,11 @@ Here goes all the opportunities I attempted but did not succeed throughout my un
 
 ### Conferences I got rejected from:
 - [2025] [Mining Software Repositories (MSR)](https://2025.msrconf.org/)
+
+### Industry placements I missed out on:
+- [2024] Synesis IT
+- [2024] Dynamic Solution Innovators
+- [2024] Chaldal
+
+### Academia placements I missed out on:
+- [2024] United International University (UIU)
