@@ -3,13 +3,13 @@ Here goes all the opportunities I attempted but did not succeed throughout my un
 
 ### Degree programs I did not get into:
 - [2025] PhD in Software Engineering at Carnegie Mellon University (CMU) <!-- list down University of Virginia, Purdue University, University of Maryland College Park, Stony Brook University, UMass Amherst, Rice University, UCLA -->
-- [2025] PhD in Computer Science at University of Virginia (UVA)
-- [2025] PhD in Computer Science at Purdue University
-- [2025] PhD in Computer Science at University of Maryland College Park (UMD)
-- [2025] PhD in Computer Science at Stony Brook University (SBU)
-- [2025] MS/PhD in Computer Science at University of Massachusetts Amherst (UMass Amherst)
-- [2025] PhD in Computer Science at Rice University
-- [2025] PhD in Computer Science at University of California, Los Angeles (UCLA)
+- [2025] PhD in Computer Science (SWE) at University of Virginia (UVA)
+- [2025] PhD in Computer Science (SWE) at Purdue University
+- [2025] PhD in Computer Science (Security) at University of Maryland College Park (UMD)
+- [2025] PhD in Computer Science (NLP) at Stony Brook University (SBU)
+- [2025] MS/PhD in Computer Science (SWE) at University of Massachusetts Amherst (UMass Amherst)
+- [2025] PhD in Computer Science (NLP) at Rice University
+- [2025] PhD in Computer Science (Security) at University of California, Los Angeles (UCLA)
 
 ### Research internships I failed to secure:
 - [2025] [Summer Research Initiative (SURI) at Arizona State University](https://students.engineering.asu.edu/graduate/research/suri/)
@@ -23,3 +23,4 @@ Here goes all the opportunities I attempted but did not succeed throughout my un
 - [2024] [Eastern European Machine Learning Summer School (EEML)](https://www.eeml.eu/home)
 - [2024] [Summer Program in Intelligence, Data, Ethics, And Society (IDEAS)](https://sites.google.com/view/ideas-summer-program/home?authuser=0)
 - [2024, 2023] [The Cornell, Maryland, Max Planck Pre-doctoral Research School in Computer Science (CMMRS)](https://cmmrs.mpi-sws.org/)
+
