@@ -1,5 +1,19 @@
 # CV-of-Failures
-Here goes all the opportunities I attempted but did not succeed throughout my undergrad and beyond-
+
+------------------------------------
+
+**Preface**: We always tend to talk about our success stories on social media. Let's sometime talk about the failures, too?
+
+I found the concept of a 'CV of failures' back in 2023. Now that the graduate admission season is complete for me, I tried to look back and compile all the rejections I got so far. Some of these hit me with needed reality checks, and almost all of them motivated me in some way or other. One good thing about never hesitating to take a shot that you find interesting is that you can always learn something new throughout the application process and get prepared for the future.
+
+Keeping the satirical point of view aside, I found that such a CV of rejections can well be a very good starting place for others to explore similar opportunities. I will try to update this with some more local/global competitions/hackathons (not directly related to research) that I attended, but in vain (!). So you can save this link for later if interested. If anyone learns here about any program for the first time and eventually ends up cracking it, I would be the happiest third party. 
+
+One that I got closest to: UCLA :(
+One that hurt the most: CMMRS :)
+
+------------------------------------
+
+Here goes all the opportunities I attempted but did not succeed in throughout my undergrad and beyond-
 
 ## Degree programs I did not get into:
 **2025**
